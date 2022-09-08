@@ -2,8 +2,8 @@
 
 ## Today I Learned
 
-> TIL
-
-#### today
-
-    1.간결하다
+- Deep learning
+  - pre-procssing
+    - robust scaler로 정규화
+    - LOF, outlier 제거
+  - Python
