@@ -2,6 +2,8 @@
 
 ## Today I Learned
 
-### TIL
+> TIL
 
 #### today
+
+    1.간결하다
